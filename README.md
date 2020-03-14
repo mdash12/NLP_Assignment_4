@@ -118,23 +118,3 @@ This assignment is much more open ended than the others. What we're looking for 
 1. Run with only Word Embeddings (remove `pos_inputs` and dependency structure. Removing dep structure can be done by setting `shortest_path = []` in `data.py`)
 2. Run with only Word + Pos embeddings
 3. Run with only Word + Dep structure
-
-
-
-## What to turn in?
-
-A single zip file containing the following files:
-
-1. model.py
-2. train_advanced.py
-3. train_lib.py
-4. basic_test_prediction.txt
-5. advanced_test_prediction_1.txt
-6. advanced_test_prediction_2txt
-7. advanced_test_prediction_3.txt
-
-`gdrive_link.txt` should have a link to the `serialization_dirs.zip` of your trained models.
-
-We will release the exact zip format on piazza in a couple of days but it should largely be the same as assignment 3.
-
-### Good Luck!
